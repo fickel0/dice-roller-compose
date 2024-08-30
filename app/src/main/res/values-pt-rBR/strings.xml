@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dado</string>
+    <string name="roll_instruction">Sacuda para rolar o dado</string>
+    <string name="die_description">Uma imagem gerada por computador de um dado de seis lados.</string>
+</resources>
